@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  iLojista — icon only (square).
+  iLojista: icon only (square).
   Master SVG for favicon / app icon / social avatar.
   38×38 pixel grid, scale freely (shape-rendering=crispEdges keeps it pixel-sharp).
 
-  The mark: the iLojista pixel glyph — a monogram with a left chevron (cliente
+  The mark: the iLojista pixel glyph, a monogram with a left chevron (cliente
   chegando) and a right dart (resposta saindo). O atendimento que nunca para,
   em mosaico. Traced from the brand ID (designer files pending; this is the
   canonical interim master).
 
-  Color: the glyph is `#000000`, so one master serves both treatments —
+  Color: the glyph is `#000000`, so one master serves both treatments:
   dark on light surfaces (the `color` default below) and white on the black
   app tile (set by the icon generator).
 -->
