@@ -17,11 +17,11 @@
       "interface": {
         "displayName": "atendi.me",
         "shortDescription": "Service catalog & funnel",
-        "longDescription": "atendi.me connects your agent to a service business's catalog and sales funnel on atendi.me, built for barbershops, clinics, salons and studios in Brazil. Read the active services and products with their category, amount in centavos, duration in the schedule and availability, and read the ordered funnel stages without exposing customer contacts or conversations. All tools are read-only.",
+        "longDescription": "atendi.me connects your agent to a service business's catalog and sales funnel on atendi.me, built for barbershops, clinics, salons and studios in Brazil. Read the services and products with their category, amount in centavos, duration in the schedule and availability, and read the ordered funnel stages without exposing customer contacts or conversations. All tools are read-only.",
         "developerName": "Gustavo Salomé",
         "category": "Business & Operations",
         "capabilities": [
-          "List active services and products in the business catalog",
+          "List services and products in the business catalog",
           "Check appointment duration and availability per catalog item",
           "List the ordered stages of the sales funnel"
         ],

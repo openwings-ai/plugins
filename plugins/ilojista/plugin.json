@@ -17,7 +17,7 @@
       "interface": {
         "displayName": "iLojista",
         "shortDescription": "Store catalog & sales funnel",
-        "longDescription": "iLojista connects your agent to the device catalog and sales funnel of a phone and electronics store in Brazil. Read the store's active devices and accessories with their condition, storage in GB, color, battery health, trade-in value and sale status, and read the ordered stages of the store's funnel without exposing customer contacts or conversations. All tools are read-only.",
+        "longDescription": "iLojista connects your agent to the device catalog and sales funnel of a phone and electronics store in Brazil. Read the store's devices and accessories with their condition, storage in GB, color, battery health, trade-in value and sale status, and read the ordered stages of the store's funnel without exposing customer contacts or conversations. All tools are read-only.",
         "developerName": "Gustavo Salomé",
         "category": "Business & Operations",
         "capabilities": [

@@ -17,11 +17,11 @@
       "interface": {
         "displayName": "Prospectar",
         "shortDescription": "B2B catalog & sales funnel",
-        "longDescription": "Prospectar connects your agent to the catalog and commercial funnel of a B2B sales team on Prospectar. Read the active offerings, services and products with their category, written label, fixed amount in centavos when applicable, meeting duration and visibility, and read the ordered stages of the funnel without exposing customer contacts or conversations. All tools are read-only.",
+        "longDescription": "Prospectar connects your agent to the catalog and commercial funnel of a B2B sales team on Prospectar. Read the offerings, services and products with their category, written label, amount in centavos when the label opens with one, meeting duration and visibility, and read the ordered stages of the funnel without exposing customer contacts or conversations. All tools are read-only.",
         "developerName": "Gustavo Salomé",
         "category": "Business & Operations",
         "capabilities": [
-          "List active offerings, services and products in the company catalog",
+          "List offerings, services and products in the company catalog",
           "Read written labels, meeting durations and visibility per catalog item",
           "List the ordered stages of the B2B sales funnel"
         ],
