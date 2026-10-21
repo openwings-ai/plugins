@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "br.com.ilojista/ilojista",
+  "title": "iLojista",
+  "description": "Read a phone and electronics store's device catalog and funnel stages on iLojista.",
+  "version": "1.0.0",
+  "websiteUrl": "https://ilojista.com.br/api",
+  "icons": [
+    {
+      "src": "https://ilojista.com.br/web-app-manifest-512x512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://ilojista.com.br/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.ilojista.com.br/mcp"
+    }
+  ]
+}

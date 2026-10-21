@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prospectar": {
+      "type": "http",
+      "url": "https://api.prospectar.io/mcp"
+    }
+  }
+}

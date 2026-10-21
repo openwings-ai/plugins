@@ -1,0 +1,44 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ilojista",
+  "version": "1.0.0",
+  "description": "Read a phone and electronics store's device catalog and funnel stages on iLojista.",
+  "author": {
+    "name": "Gustavo Salomé",
+    "email": "gustavonips@gmail.com",
+    "url": "https://ilojista.com.br"
+  },
+  "homepage": "https://ilojista.com.br/api",
+  "repository": "https://github.com/openwings-ai/plugins",
+  "license": "MIT",
+  "keywords": ["ilojista", "iphone", "catalog", "crm", "funnel", "brazil"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "iLojista",
+        "shortDescription": "Store catalog & sales funnel",
+        "longDescription": "iLojista connects your agent to the device catalog and sales funnel of a phone and electronics store in Brazil. Read the store's active devices and accessories with their condition, storage in GB, color, battery health, trade-in value and sale status, and read the ordered stages of the store's funnel without exposing customer contacts or conversations. All tools are read-only.",
+        "developerName": "Gustavo Salomé",
+        "category": "Business & Operations",
+        "capabilities": [
+          "List devices and products in the store catalog",
+          "Read device storage, color, condition, battery health and trade-in value",
+          "List the ordered stages of the store sales funnel"
+        ],
+        "websiteURL": "https://ilojista.com.br",
+        "supportURL": "https://ilojista.com.br/api",
+        "privacyPolicyURL": "https://ilojista.com.br/privacy#apps-de-ia",
+        "termsOfServiceURL": "https://ilojista.com.br/terms",
+        "defaultPrompt": [
+          "Which iPhones are available in my iLojista store catalog right now?",
+          "Show the used devices in my iLojista catalog with their battery health.",
+          "What are the stages of my sales funnel on iLojista?"
+        ],
+        "brandColor": "#000000",
+        "brandColorDark": "#D4E87F",
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

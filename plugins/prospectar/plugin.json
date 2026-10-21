@@ -1,0 +1,44 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "prospectar",
+  "version": "1.0.0",
+  "description": "Read a B2B commercial team's catalog and funnel stages on Prospectar.",
+  "author": {
+    "name": "Gustavo Salomé",
+    "email": "gustavonips@gmail.com",
+    "url": "https://prospectar.io"
+  },
+  "homepage": "https://prospectar.io/api",
+  "repository": "https://github.com/openwings-ai/plugins",
+  "license": "MIT",
+  "keywords": ["prospectar", "b2b", "catalog", "crm", "funnel", "brazil"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Prospectar",
+        "shortDescription": "B2B catalog & sales funnel",
+        "longDescription": "Prospectar connects your agent to the catalog and commercial funnel of a B2B sales team on Prospectar. Read the active offerings, services and products with their category, written label, fixed amount in centavos when applicable, meeting duration and visibility, and read the ordered stages of the funnel without exposing customer contacts or conversations. All tools are read-only.",
+        "developerName": "Gustavo Salomé",
+        "category": "Business & Operations",
+        "capabilities": [
+          "List active offerings, services and products in the company catalog",
+          "Read written labels, meeting durations and visibility per catalog item",
+          "List the ordered stages of the B2B sales funnel"
+        ],
+        "websiteURL": "https://prospectar.io",
+        "supportURL": "https://prospectar.io/api",
+        "privacyPolicyURL": "https://prospectar.io/privacy#apps-de-ia",
+        "termsOfServiceURL": "https://prospectar.io/terms",
+        "defaultPrompt": [
+          "List the services and products in my Prospectar catalog.",
+          "Which items in my Prospectar catalog are currently visible?",
+          "What are the stages of my sales funnel on Prospectar?"
+        ],
+        "brandColor": "#08090a",
+        "brandColorDark": "#10C671",
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

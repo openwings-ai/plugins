@@ -1,0 +1,29 @@
+{
+  "name": "openwings-ai",
+  "owner": {
+    "name": "Gustavo Salomé",
+    "email": "gustavonips@gmail.com",
+    "url": "https://github.com/openwings-ai"
+  },
+  "description": "Plugins for openwings-ai's products: each one teaches the agent a product's workflows and connects it to that product's MCP server.",
+  "plugins": [
+    {
+      "name": "atendime",
+      "source": "./plugins/atendime",
+      "description": "Read a service business's catalog and funnel stages on atendi.me.",
+      "category": "productivity"
+    },
+    {
+      "name": "ilojista",
+      "source": "./plugins/ilojista",
+      "description": "Read a phone and electronics store's device catalog and funnel stages on iLojista.",
+      "category": "productivity"
+    },
+    {
+      "name": "prospectar",
+      "source": "./plugins/prospectar",
+      "description": "Read a B2B commercial team's catalog and funnel stages on Prospectar.",
+      "category": "productivity"
+    }
+  ]
+}

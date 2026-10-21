@@ -1,0 +1,20 @@
+{
+  "name": "atendime",
+  "displayName": "atendi.me",
+  "version": "1.0.0",
+  "description": "Read a service business's catalog and funnel stages on atendi.me.",
+  "author": {
+    "name": "Gustavo Salomé",
+    "email": "gustavonips@gmail.com",
+    "url": "https://atendi.me"
+  },
+  "homepage": "https://atendi.me/api",
+  "repository": "https://github.com/openwings-ai/plugins",
+  "license": "MIT",
+  "keywords": ["atendime", "catalog", "crm", "funnel", "whatsapp", "brazil"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://atendi.me/api",
+  "privacyPolicyUrl": "https://atendi.me/privacy#apps-de-ia",
+  "termsOfServiceUrl": "https://atendi.me/terms",
+  "supportUrl": "https://github.com/openwings-ai/plugins/issues"
+}

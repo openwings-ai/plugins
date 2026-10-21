@@ -1,0 +1,20 @@
+{
+  "name": "prospectar",
+  "displayName": "Prospectar",
+  "version": "1.0.0",
+  "description": "Read a B2B commercial team's catalog and funnel stages on Prospectar.",
+  "author": {
+    "name": "Gustavo Salomé",
+    "email": "gustavonips@gmail.com",
+    "url": "https://prospectar.io"
+  },
+  "homepage": "https://prospectar.io/api",
+  "repository": "https://github.com/openwings-ai/plugins",
+  "license": "MIT",
+  "keywords": ["prospectar", "b2b", "catalog", "crm", "funnel", "brazil"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://prospectar.io/api",
+  "privacyPolicyUrl": "https://prospectar.io/privacy#apps-de-ia",
+  "termsOfServiceUrl": "https://prospectar.io/terms",
+  "supportUrl": "https://github.com/openwings-ai/plugins/issues"
+}

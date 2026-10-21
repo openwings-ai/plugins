@@ -1,0 +1,20 @@
+{
+  "name": "ilojista",
+  "displayName": "iLojista",
+  "version": "1.0.0",
+  "description": "Read a phone and electronics store's device catalog and funnel stages on iLojista.",
+  "author": {
+    "name": "Gustavo Salomé",
+    "email": "gustavonips@gmail.com",
+    "url": "https://ilojista.com.br"
+  },
+  "homepage": "https://ilojista.com.br/api",
+  "repository": "https://github.com/openwings-ai/plugins",
+  "license": "MIT",
+  "keywords": ["ilojista", "iphone", "catalog", "crm", "funnel", "brazil"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://ilojista.com.br/api",
+  "privacyPolicyUrl": "https://ilojista.com.br/privacy#apps-de-ia",
+  "termsOfServiceUrl": "https://ilojista.com.br/terms",
+  "supportUrl": "https://github.com/openwings-ai/plugins/issues"
+}

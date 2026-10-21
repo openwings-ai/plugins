@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ilojista": {
+      "type": "http",
+      "url": "https://api.ilojista.com.br/mcp"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  atendi.me — icon only (square).
+  Master SVG for favicon / app icon / social avatar.
+
+  The mark: the capivara's head in profile, facing left — calm, already
+  answering. Painted-sign construction: organic silhouette in caramel with a
+  darker muzzle block, ink nose and one calm eye. No filters and no fur ticks:
+  at 16px only the silhouette, muzzle and eye survive — the painted texture
+  belongs to hero-scale murals, not icons.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="atendi.me">
+    <path d="M30 74 Q20 70 20 56 Q20 40 30 30 Q40 20 56 22 Q74 24 81 38 Q86 50 82 63 Q77 76 64 80 L42 82 Q34 80 30 74 Z" fill="#A8713A"/>
+    <path d="M20 58 Q19 44 28 34 Q32 29 39 28 L38 60 Q27 63 20 58 Z" fill="#7A4E26"/>
+    <ellipse cx="25" cy="46" rx="4" ry="3.4" fill="#2E1F14" transform="rotate(-18 25 46)"/>
+    <path d="M49 44 Q54 41 58 44" stroke="#2E1F14" stroke-width="3.4" fill="none" stroke-linecap="round"/>
+    <path d="M60 27 Q65 17 73 21 Q79 25 74 32 Q67 35 60 27 Z" fill="#7A4E26"/>
+</svg>

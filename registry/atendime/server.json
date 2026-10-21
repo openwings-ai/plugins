@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "me.atendi/atendime",
+  "title": "atendi.me",
+  "description": "Read a service business's catalog and funnel stages on atendi.me.",
+  "version": "1.0.0",
+  "websiteUrl": "https://atendi.me/api",
+  "icons": [
+    {
+      "src": "https://atendi.me/web-app-manifest-512x512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://atendi.me/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.atendi.me/mcp"
+    }
+  ]
+}
