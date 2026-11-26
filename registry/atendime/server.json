@@ -3,7 +3,7 @@
   "name": "me.atendi/atendime",
   "title": "atendi.me",
   "description": "Read a service business's catalog and funnel stages on atendi.me.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://atendi.me/api",
   "icons": [
     {

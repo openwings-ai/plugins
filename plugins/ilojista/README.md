@@ -34,6 +34,8 @@ codex plugin add ilojista@openwings-ai
 
 ## Sign in
 
+Your MCP client can see what the tools do before you sign in. Sign in or use an API key to run a tool.
+
 In Claude Code, type `/mcp`, choose ilojista and Authenticate. In Codex 0.147 or later, run
 `codex mcp login ilojista`. The browser opens `https://app.ilojista.com.br/conectar`. Sign in as
 the owner of the loja, check the app's name and return address, and press Conectar.
