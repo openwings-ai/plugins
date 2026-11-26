@@ -3,7 +3,7 @@
   "name": "br.com.ilojista/ilojista",
   "title": "iLojista",
   "description": "Read a phone and electronics store's device catalog and funnel stages on iLojista.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://ilojista.com.br/api",
   "icons": [
     {

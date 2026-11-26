@@ -3,7 +3,7 @@
   "name": "io.prospectar/prospectar",
   "title": "Prospectar",
   "description": "Read a B2B commercial team's catalog and funnel stages on Prospectar.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://prospectar.io/api",
   "icons": [
     {

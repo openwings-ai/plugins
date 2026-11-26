@@ -33,6 +33,8 @@ codex plugin add atendime@openwings-ai
 
 ## Sign in
 
+Your MCP client can see what the tools do before you sign in. Sign in or use an API key to run a tool.
+
 In Claude Code, type `/mcp`, choose atendime and Authenticate. In Codex 0.147 or later, run
 `codex mcp login atendime`. The browser opens `https://app.atendi.me/conectar`. Sign in as the
 owner of the negócio, check the app's name and return address, and press Conectar.
